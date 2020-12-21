@@ -1,0 +1,11 @@
+#state-1 :focus{
+border: none !important;
+
+},
+#state-2 :active{
+border: none !important;
+
+},
+#state-3 :active{
+border: none !important;
+}

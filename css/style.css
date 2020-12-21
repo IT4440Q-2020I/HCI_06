@@ -1,0 +1,22 @@
+@font-face{
+	font-family:brand;
+	src:url(../fonts/brand.eot);
+	src:url(../fonts/brand.eot#iefix) format('embedded-opentype'),
+	url(../fonts/brand.ttf) format('truetype'),url(../fonts/brand.woff) format('woff'),
+	url(../fonts/brand.svg#brand) format('svg');
+	font-weight:400;font-style:normal;
+	font-display:block}[class^=brand-],[class*=" brand-"]
+	{font-family:brand!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.brand-adobeillustrator:before{content:"\e900";color:#ff7c00}.brand-adobephotoshop:before{content:"\e901";color:#00c8ff}.brand-angular:before{content:"\e902";color:#dd0031}.brand-javascript:before{content:"\e903";color:#f7df1e}.brand-react:before{content:"\e904";color:#61dafb}.brand-swift:before{content:"\e905";color:#fa7343}.brand-vue-dot-js:before{content:"\e906";color:#4fc08d}.brand-wordpress:before{content:"\e907";color:#21759b}.brand-telegram:before{content:"\f2c6"}
+.avatar {
+	width : 50px;
+	height: 50px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+.site-footer {
+    padding-top: 8em !important;
+    padding-bottom: 20px !important;;
+}
+.site-menu {
+	font-weight : bold !important;
+}
